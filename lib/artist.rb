@@ -15,9 +15,7 @@ class Artist
   end 
   
   def songs 
-    songs.all.select do |song|
-      self.song 
-    end 
+    
   end 
   
   def genre 
